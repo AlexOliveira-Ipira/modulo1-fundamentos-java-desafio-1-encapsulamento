@@ -1,5 +1,8 @@
 package br.com.unipds.fundamentosjava.desafio;
 
+import br.com.unipds.fundamentosjava.desafio.exception.ExceptionProduto;
+import br.com.unipds.fundamentosjava.desafio.model.Produto;
+
 public class Main {
     public static void main(String[] args) {
 
